@@ -1,9 +1,10 @@
-﻿using System;
+/*                     DESENVOLVIDO POR VITOR FELIPE RAMOS MELLO - GRADUANDO ENGENHARIA DA COMPUTAÇÃO
+                                           NA UNIVERSIDADE DO VALE DO ITAJAÍ*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*VITOR FELIPE RAMOS MELLO - GRADUANDO ENGENHARIA DA COMPUTAÇÃO NA UNIVERSIDADE DO VALE DO ITAJAÍ*/
 
 
 namespace Calculadora
